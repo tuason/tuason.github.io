@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 06 Mar 2019 22:12:07 +1300</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>http://example.org/blog_whatsup/</link>
+      <pubDate>Wed, 06 Mar 2019 22:12:07 +1300</pubDate>
+      
+      <guid>http://example.org/blog_whatsup/</guid>
+      <description>hahaha, this i another one!
+[object HTMLLIElement]</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/kia_ora/</link>
+      <pubDate>Tue, 05 Mar 2019 23:42:00 +1300</pubDate>
+      
+      <guid>http://example.org/kia_ora/</guid>
+      <description>Hi there, this is our new page about our life on Aotea Island.
+Enjoy and be part of our little family adventure&amp;hellip;
+Cheers,
+the siegrists
+[object HTMLLIElement]</description>
+    </item>
+    
+  </channel>
+</rss>
